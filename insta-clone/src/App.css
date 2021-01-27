@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+}
+.warning_text{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+.App {
+ background-color: #fafafa;
+ height: 100vh;
+}
+.user_name{
+  font-family: cursive;
+  margin-bottom: 5px;
+}
+.app_header{
+  
+  background-color: white;
+  padding: 20px;
+  object-fit: contain;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: space-between;
+}
+.app__signUp{
+  display: flex;
+  flex-direction: column ;
+ 
+}
+.app_posts{
+  padding: 20px;
+  
+}
+
