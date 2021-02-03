@@ -8,5 +8,17 @@ This is an Instagram Clone built on React as Frontend and Firebase as backend.
 <img src="/insta-clone-2.png" height="250" width="500">
 <img src="/insta-clone-3.png" height="250" width="500">
 
+## Packages to be installed:
+
+### 'npm install':
+    "@material-ui/core": "^4.11.2"
+    "@material-ui/icons": "^4.11.2"
+    "@testing-library/jest-dom": "^5.11.9"
+    "@testing-library/react": "^11.2.3"
+    "@testing-library/user-event": "^12.6.0"
+    "firebase": "^8.2.3"
+    "react": "^17.0.1"
+    "react-dom": "^17.0.1"
+
 
 
