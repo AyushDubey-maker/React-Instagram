@@ -10,7 +10,7 @@ This is an Instagram Clone built on React as Frontend and Firebase as backend.
 
 ## Packages to be installed:
 
-### 'npm install':
+### `npm install`:
     "@material-ui/core": "^4.11.2"
     "@material-ui/icons": "^4.11.2"
   
