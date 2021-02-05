@@ -17,6 +17,10 @@ This is an Instagram Clone built on React as Frontend and Firebase as backend.
     "firebase": "^8.2.3"
     "react": "^17.0.1"
     "react-dom": "^17.0.1"
+    
+    
+    
+# Added Reels section to the React-Instagram
 
 
 
