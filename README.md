@@ -25,6 +25,6 @@ This reel section is connected to the instagram page using react-router `Router`
 
 **Code Output:**
 <img src="/reels-1.png">
-
+<img src="/reels-2.png">
 
 
