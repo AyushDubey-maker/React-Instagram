@@ -20,7 +20,11 @@ This is an Instagram Clone built on React as Frontend and Firebase as backend.
     
     
     
-# Added Reels section to the React-Instagram
+## Added Reels section to the React-Instagram
+This reel section is connected to the instagram page using react-router `Router`.
+
+**Code Output:**
+<img src="/reels-1.png">
 
 
 
